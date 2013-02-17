@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/cube.dir/cube.cpp.o  -o cube -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 

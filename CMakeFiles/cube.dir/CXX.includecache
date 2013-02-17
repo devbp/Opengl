@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dev/OpengL/cube/cube.cpp
+stdio.h
+-
+stdarg.h
+-
+math.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+
